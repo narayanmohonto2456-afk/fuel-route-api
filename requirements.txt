@@ -1,0 +1,10 @@
+Django==5.2
+djangorestframework==3.16.0
+django-cors-headers==4.7.0
+requests==2.32.3
+polyline==2.0.2
+geopy==2.4.1
+folium==0.18.0
+python-dotenv==1.0.1
+drf-spectacular==0.28.0
+gunicorn==23.0.0

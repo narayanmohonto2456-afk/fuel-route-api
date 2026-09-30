@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+media/
+routing/data/city_coords.json
+routing/data/cleaned_fuel_prices.csv
+.idea/
+.vscode/
+body.json

@@ -456,5 +456,5 @@ MIT — free to use for evaluation.
 
 ## Author
 
-**Your Name**
+**Narayan Mohanata**
 Built for a take-home engineering assessment.
